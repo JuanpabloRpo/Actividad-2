@@ -14,7 +14,7 @@ main{
 }
 
 .background{
-    background-image: url(https://image.freepik.com/foto-gratis/gaviota-volando-nubes-fondo_1206-48.jpg);
+    background-image: url(https://image.freepik.com/vector-gratis/fondo-oscuro-textura-moderna_1035-11632.jpg);
     background-size: 100%;
     height: 100vh;
     width: 100%;
@@ -31,6 +31,37 @@ main{
     width: 60%;
     background-color: yellow;
     height: 60%;
+}
+
+.col-60{
+    width: 100%;
+    padding: 30px;
+
+}
+
+.col-60 h2{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    color: orange;
+}
+
+.col-60 p{
+    font-size: 4rem;
+    margin-top: 0;
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    color: cornsilk;
+}
+
+.col-60 button{
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px 20px;
+    border: none;
+    font-weight: 700;
 }
 
 .container .background .back-color .row .col-60 h2{
