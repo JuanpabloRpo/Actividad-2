@@ -1,4 +1,24 @@
 .body{
-    margin: 100, 100, 100, 100;
+    margin: 0;
     padding: 0;
+}
+
+.main{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100hv;
+    height: 100vh;
+}
+
+.background{
+    background-image: url(https://image.freepik.com/foto-gratis/jarras-vidrio-leche-fresca-deliciosas-galletas-colocadas-sobre-fondo-marmol_114579-42315.jpg);
+    height: 100vh;
+    width: 100%;
+}
+
+.container .background .back-color .row .col-50 h2{
+    margin 0;
 }
