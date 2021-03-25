@@ -1,9 +1,9 @@
-.body{
+body{
     margin: 0;
     padding: 0;
 }
 
-.main{
+main{
     margin: 0;
     padding: 0;
 }
@@ -14,11 +14,26 @@
 }
 
 .background{
-    background-image: url(https://image.freepik.com/foto-gratis/jarras-vidrio-leche-fresca-deliciosas-galletas-colocadas-sobre-fondo-marmol_114579-42315.jpg);
+    background-image: url(https://image.freepik.com/foto-gratis/gaviota-volando-nubes-fondo_1206-48.jpg);
+    background-size: 100%;
     height: 100vh;
     width: 100%;
+    background-repeat: no-repeat;
 }
 
-.container .background .back-color .row .col-50 h2{
-    margin 0;
+.back-color{
+    background-color: rgba 0, 0, 0, 1);
+    width: 100%;
+    height: 100%;
+}
+
+.row{
+    width: 60%;
+    background-color: yellow;
+    height: 60%;
+}
+
+.container .background .back-color .row .col-60 h2{
+    margin-top: 0;
+    padding: 0;
 }
